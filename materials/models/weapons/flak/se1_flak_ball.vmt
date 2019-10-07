@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/Weapons/flak/SE1_flak_ball"
+	"$model" 1
+}

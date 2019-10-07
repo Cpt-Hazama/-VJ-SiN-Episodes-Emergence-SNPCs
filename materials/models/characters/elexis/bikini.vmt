@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Characters/Elexis/Bikini"
+	"$mostlyopaque" 1
+	"$translucent" 1
+	"$model" 1
+	"$nocull" 1
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models\vehicles\sintek_helicopter\sin_light_01_chopper"
+	"$surfaceprop" "metal"
+     	"$model" 1
+     	"$selfillum" 1
+        
+
+}

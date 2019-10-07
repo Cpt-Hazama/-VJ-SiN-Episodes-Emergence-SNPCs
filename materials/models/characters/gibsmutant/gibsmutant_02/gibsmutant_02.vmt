@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\characters\GibsMutant\GibsMutant_02\GibsMutant_02"
+	"$surfaceprop" "flesh"
+	"$model" 1
+	"$bumpmap" "models\characters\GibsMutant\GibsMutant_02\GibsMutant_02_normal"
+	"$envmap" "env_cubemap"
+	"$envmapconstrast" "1"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapsaturation" .1
+	"$envmaptint" "[ .05 .05 .05 ]"
+}
+
+	
+
+	

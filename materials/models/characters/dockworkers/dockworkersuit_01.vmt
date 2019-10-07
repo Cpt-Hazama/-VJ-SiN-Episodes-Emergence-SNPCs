@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/characters/dockworkers/dockworkersuit_01"
+	"$bumpmap" "models/characters/dockworkers/dockworkersuit_01_normal"
+	"$model" 1
+	"$selfIllum" 1
+	
+	
+}

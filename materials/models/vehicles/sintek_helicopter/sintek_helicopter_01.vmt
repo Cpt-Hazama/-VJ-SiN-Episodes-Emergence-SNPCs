@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/vehicles/sintek_helicopter/sintek_helicopter_01"
+	"$surfaceprop" "solidmetal"
+
+}

@@ -1,0 +1,47 @@
+"unlittwotexture"
+
+{
+	"$basetexture" "models\weapons\poison_spit\sack"
+	"$texture2"	"models\weapons\poison_spit\sack"
+	"$model" 1
+	"$additive" 1
+	
+	
+	"Proxies"
+	{
+	
+		"Sine"
+		{
+			"resultVar" "$color[0]"
+			"sineperiod" .3
+			"sinemin" .99
+			"sinemax" 1
+		}
+		"Sine"
+		{
+			"resultVar" "$color[1]"
+			"sineperiod" .4
+			"sinemin" .85
+			"sinemax" 1
+		}
+		"Sine"
+		{
+			"resultVar" "$color[2]"
+			"sineperiod" .2
+			"sinemin" .99
+			"sinemax" 1
+		}
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$texture2transform"
+			"texturescrollrate" .1
+			"texturescrollangle" 45
+		}
+
+
+	}
+}
+
+
+

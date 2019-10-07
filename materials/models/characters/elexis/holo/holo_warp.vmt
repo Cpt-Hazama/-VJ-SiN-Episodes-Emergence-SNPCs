@@ -1,0 +1,37 @@
+"Refract"
+{
+ 	"Refract_DX60"
+	{
+		"$fallbackmaterial" "models\characters\elexis\holo\holo_warp_none"
+	}
+ 	"$model" 1
+ 	"$refractamount" ".24"
+ 	"$bluramount" "1"
+	"$scale" "[1 1]"
+ 	"$dudvmap" "models\characters\elexis\holo\holo_warp"
+ 	"$normalmap" "models\characters\elexis\holo\holo_warp"
+	"$bumpframe" "0"
+	"$translucent" "1"
+	//"$alpha" .5
+	//"$ignorez" "1"
+	"$forcerefract" "1"
+	"$nofog" "1"
+	//"$REFRACTTINT" "{0 0 0}"
+	//"$refracttinttexture" "models\characters\elexis\holo\scanline_warp"
+
+"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$normalmap"
+			"animatedtextureframenumvar" "$bumpframe"
+			"animatedtextureframerate" "30.00"
+		}
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$dudvmap"
+			"animatedtextureframenumvar" "$bumpframe"
+			"animatedtextureframerate" "30.00"
+		}
+	}
+}

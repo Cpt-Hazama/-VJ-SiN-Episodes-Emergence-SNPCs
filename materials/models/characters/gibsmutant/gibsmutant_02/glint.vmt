@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	// Original shader: AddTexture
+	"$basetexture" "models\characters\GibsMutant\GibsMutant_02\GibsMutant_02\glint"
+	"$additive" 1
+	"$model" 1
+}

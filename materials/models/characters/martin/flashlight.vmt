@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+
+{
+	"$basetexture" "models\characters\Martin\flashlight"
+	"$surfaceprop" "metal"
+	"$model" 1
+}

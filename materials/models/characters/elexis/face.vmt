@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Characters/Elexis/Face"
+
+	"$bumpmap" "models/Characters/Elexis/Face_n"
+	"$selfIllum" 0
+	"$alphatest" 1
+	"$model" 1
+	"$nocull" 1
+	"$halflambert" 1
+
+}

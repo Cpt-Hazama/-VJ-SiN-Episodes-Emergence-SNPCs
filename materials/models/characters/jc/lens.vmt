@@ -1,0 +1,10 @@
+"vertexlitGeneric"
+{
+	"$baseTexture"			"models/characters/jc/shades"
+	"$envmapmask" 			"models/characters/jc/shades_mask"
+	"$envmapsaturation" "[.2 .1 1]"
+	"$envmap" "env_cubemap"
+	"$envmaptint"  "[.5 .5 .5]"
+	"$translucent"			1
+	"$nocull" 1
+}

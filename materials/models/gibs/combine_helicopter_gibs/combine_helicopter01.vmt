@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/Gibs/combine_helicopter_gibs/combine_helicopter01"
+	"$model" 1
+	//"$surfaceprop" "metal"
+	//"$nocull" 1
+}

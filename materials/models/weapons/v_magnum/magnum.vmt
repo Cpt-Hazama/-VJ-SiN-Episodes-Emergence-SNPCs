@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/v_magnum/magnum"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+	"$envmapsaturation" .25
+	"$envmaptint" "[ .5 .5 .5]"
+	"$model" 1
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/characters/MobGrunt/gruntbody_riffle"
+	"$surfaceprop" "flesh"
+	"$model" 1
+	"$Selfillum" 1
+	"$bumpmap" "models/characters/MobGrunt/gruntbody_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.25 0.25 0.25]"
+	"$envmapconstrast" "1"
+	"$envmapsaturation" 1
+}
+
+
+      

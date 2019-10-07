@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/characters/Blade/bladeglasses"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 1.0 1.0 1.0 ]"
+	"$basealphaenvmapmask" 1
+}

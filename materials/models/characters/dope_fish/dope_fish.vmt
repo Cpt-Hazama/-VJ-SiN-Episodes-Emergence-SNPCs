@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Characters/Dope_Fish/Dope_Fish"
+	"$surfaceprop" "blood"
+    "$model" 1
+	"$bumpmap" "Models/characters/Dope_Fish/Dope_Normal"
+    "$envmap" "env_cubemap"
+    "$normalmapalphaenvmapmask" 2
+	"$envmaptint" "[ .3 .3 .3 ]"
+	"$envmapconstrast" "1"
+	"$envmapsaturation" 1
+}

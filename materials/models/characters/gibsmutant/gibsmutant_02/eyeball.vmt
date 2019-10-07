@@ -1,0 +1,10 @@
+"eyes"
+{
+
+	"$basetexture" "models\characters\GibsMutant\GibsMutant_02\eyeball"
+
+	"$iris" "models\characters\GibsMutant\GibsMutant_02\pupil"
+	
+}
+
+	

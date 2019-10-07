@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$Basetexture" Models\characters\NoFireQuad\nofirequad
+	"$Model" 1
+	"$Translucent" 1
+}

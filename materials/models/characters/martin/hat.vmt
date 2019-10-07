@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+
+{
+	"$basetexture" "models\characters\Martin\Hat"
+	"$surfaceprop" "flesh"
+	"$model" 1
+}

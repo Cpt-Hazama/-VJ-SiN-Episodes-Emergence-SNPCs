@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/characters/MobGrunt/Egg"
+	"$surfaceprop" "flesh"
+	"$model" 1
+	"$bumpmap" "models/characters/MobGrunt/Egg_Normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.6 0.6 0.6]"
+	"$envmapconstrast" "1"
+	"$envmapsaturation" 1
+}
+
+
+      

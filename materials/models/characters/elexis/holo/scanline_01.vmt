@@ -1,0 +1,6 @@
+"unlitgeneric"
+{	
+	"$basetexture" "models\characters\elexis\holo\scanline_01"
+	"$model" "1"
+	"$additive" "1"
+}

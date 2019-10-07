@@ -1,0 +1,7 @@
+"eyes"
+{
+	"$basetexture" "models/characters/crimelord/eyeball_l"
+	"$iris" "models/characters/crimelord/pupil_l"
+	"$halflambert" 1
+	"$nodecal" "1"
+}

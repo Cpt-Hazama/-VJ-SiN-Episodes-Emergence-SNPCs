@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/weapons/w_scattergun/w_scattergun_01"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.6 .6 .6]"
+        "$basealphaenvmapmask" 1
+}

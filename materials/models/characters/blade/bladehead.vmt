@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/characters/Blade/bladehead"
+	"$bumpmap" "models/characters/Blade/BladeHead_normal"
+
+}

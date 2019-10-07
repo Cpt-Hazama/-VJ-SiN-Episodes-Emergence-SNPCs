@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/weapons/w_assault_rifle/w_assaultrifle_01"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.5 .6 .7]"
+        "$basealphaenvmapmask" 1
+}

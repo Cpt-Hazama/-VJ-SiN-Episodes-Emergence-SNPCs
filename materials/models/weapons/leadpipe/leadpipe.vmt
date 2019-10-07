@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/weapons/Lead Pipe/LeadPipe"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.6 .6 .6]"
+        "$basealphaenvmapmask" 1
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+
+{
+	"$basetexture" "models\characters\SecurityDrone_02\SecurityDrone_02_gib"
+	"$surfaceprop" "metal"
+	"$model" 1
+	
+}

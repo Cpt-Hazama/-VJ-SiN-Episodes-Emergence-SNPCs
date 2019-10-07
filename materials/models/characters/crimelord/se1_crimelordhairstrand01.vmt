@@ -1,0 +1,12 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/characters/CrimeLord/SE1_CrimeLordHairStrand01"
+	"$mostlyopaque" 1
+	"$translucent" 1
+	//"$alphatest" 1
+	"$model" 1
+	"$nocull" 1
+}
+
+
+

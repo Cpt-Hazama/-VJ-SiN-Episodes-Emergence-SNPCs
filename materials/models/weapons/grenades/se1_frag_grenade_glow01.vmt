@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{	"$baseTexture" "Models/Weapons/grenades/SE1_frag_grenade_glow01"
+	"$model" 1
+	"$nocull" 1
+	"$additive" 1
+	"$translucent" 1
+
+}
+
+
+
+
+
+

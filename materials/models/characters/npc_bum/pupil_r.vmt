@@ -1,0 +1,5 @@
+"Eyeball"
+{
+	"$basetexture" "Models/characters/NPC_bum/pupil_r"
+	"$nodecal" "1"
+}

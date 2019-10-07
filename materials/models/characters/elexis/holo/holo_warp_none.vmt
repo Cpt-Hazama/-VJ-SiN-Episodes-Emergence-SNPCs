@@ -1,0 +1,5 @@
+"unlitgeneric"
+{
+	"$basetexture" "models\characters\elexis\holo\holo_warp_none"
+	"$translucent" "1"
+}

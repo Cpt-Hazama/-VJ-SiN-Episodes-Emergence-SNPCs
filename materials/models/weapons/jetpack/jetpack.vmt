@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/jetpack/jetpack"
+	"$surfaceprop" "solidmetal"
+	"$selfillum" 1
+}

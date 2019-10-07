@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/vehicles/sintek_helicopter/Tail_Rotor"
+	"$surfaceprop" "solidmetal"
+	"$translucent" 1
+	"$nocull" 1
+
+}

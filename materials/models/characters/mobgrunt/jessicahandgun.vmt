@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/characters/MobGrunt/JessicaHandGun"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.2 .2 .2]"
+       	"$basealphaenvmapmask" 1
+	
+}
+
+
+      

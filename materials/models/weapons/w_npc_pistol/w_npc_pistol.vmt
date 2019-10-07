@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+
+{
+
+"$basetexture" "models\Weapons\w_npc_pistol\w_npc_pistol"
+"$surfaceprop" "solidmetal"
+
+}

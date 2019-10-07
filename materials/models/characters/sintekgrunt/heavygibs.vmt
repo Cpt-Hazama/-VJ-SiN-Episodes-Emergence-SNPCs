@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/characters/SiNTekGrunt/HeavyGibs"
+	"$surfaceprop" "flesh"
+	"$model" 1
+	"$bumpmap" "models/characters/SiNTekGrunt/HeavyGibs_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.25 0.25 0.25]"
+	"$envmapconstrast" "1"
+	"$envmapsaturation" 1
+}
+
+
+      

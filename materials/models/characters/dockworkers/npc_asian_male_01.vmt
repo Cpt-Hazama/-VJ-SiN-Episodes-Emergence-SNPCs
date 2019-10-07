@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"models/characters/dockworkers/NPC_asian_male_01"
+	"$selfIllum"			0
+	"$translucent"			0
+	"$alpha"				1
+}

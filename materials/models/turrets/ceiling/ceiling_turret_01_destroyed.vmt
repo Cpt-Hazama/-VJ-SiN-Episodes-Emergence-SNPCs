@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/turrets/ceiling/ceiling_turret_01_destroyed"
+	"$model" 1
+	"$bumpmap" "Models/turrets/ceiling/ceiling_turret_01_normal"
+	"$normalmapalphaenvmapmask" 1
+	"$surfaceprop" "computer"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .5 .6 .8 ]"
+}

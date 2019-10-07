@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/characters/SiNTekGrunt/HeavyGun"
+	"$surfaceprop" "metal"
+	"$model" 1
+	"$selfillum" 1
+	"$envmapmask" "models/characters/SiNTekGrunt/HeavyGun_spec"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.6 0.6 0.6]"
+	"$envmapconstrast" "1"
+	"$envmapsaturation" 1
+}
+
+
+      

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/characters/Blade/blademouth"
+//	"$bumpmap" "Models/characters/jessica/jessica body normals"
+//	"$envmap" "env_cubemap"
+//	"$envmaptint" "[ .05 .05 .05 ]"
+//	"$normalmapalphaenvmapmask" 1
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/Weapons/grenades/SE1_frag_grenade01"
+	"$selfillum" 1
+	"$surfaceprop" "metal"
+	"$model" 1
+} 
+
+

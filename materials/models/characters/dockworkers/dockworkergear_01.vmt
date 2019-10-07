@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/characters/dockworkers/dockworkergear_01"
+	"$bumpmap" "models/characters/dockworkers/dockworkergear_01_normal"
+	"$model" 1
+	"$selfillum" 1
+	"$normalalphaenvmapmask" 1
+	"$envmap" "env_cubemap"
+	"$envmapconstrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .2 .3 .1 ]"
+	
+}

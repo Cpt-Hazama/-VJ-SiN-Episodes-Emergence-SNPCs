@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Characters/Elexis/Hair"
+	"$bumpmap" "models/Characters/Elexis/Hair_normal"
+	"$model" 1
+	"$mostlyopaque" 1
+	"$alphatest" 1
+	"$nocull" 1
+	"$normalmapalphaenvmapmask" "1"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.45 0.45 0.45]"
+	"$envmapconstrast" "1"
+	"$envmapsaturation" 1
+
+}

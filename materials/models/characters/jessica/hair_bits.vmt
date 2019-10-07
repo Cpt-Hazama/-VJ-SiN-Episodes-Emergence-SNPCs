@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/characters/jessica/hair_bits"
+	"$alphatest" 1
+	"$model" 1
+	"$nocull" 1
+}
